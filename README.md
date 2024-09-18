@@ -1,22 +1,26 @@
 # Hi there 👋, I'm Santiago
-#
+
+<p aling="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=773594&background=FF52BC00&width=610&lines=Back-end+ web+ developer&vCenter=true" alt="Typing SVG" /></a>
+</p>  
 As a backend developer, I'm dedicated to building solid and reliable systems that keep things running smoothly. I thrive on tackling the challenges that come with optimizing performance and ensuring the stability of web applications, always aiming for simplicity in design and efficiency in execution.
 
 While my core focus is on backend development, I’m also taking steps to expand my knowledge in frontend technologies. This allows me to better understand the full scope of web applications and collaborate more effectively across different layers of the stack.
 
-#
+---
 
 ### Languages and Tools 💻
-
+<div align="center">
 <img align="left" alt="Python" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="Django_Rest_Framework" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 <img align="left" alt="FastAPI" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> 
 <img align="left" alt="JavaScript" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />        
+<img align="left" alt="Git" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" /> 
+</div>
 
 #
 
@@ -24,9 +28,17 @@ While my core focus is on backend development, I’m also taking steps to expand
 
 #
 
-![Ssantivl12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssantivl12&theme=monokai_icons=true)          
+<div align="center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssantivl12&layout=compact&theme=monokai)
+  ![Ssantivl12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssantivl12&theme=monokai&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssantivl12&layout=compact&theme=monokai)
+
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ssantivl12&theme=dark-minimalist)](https://git.io/streak-stats)
+
+
+---
 
 ### 👨‍💻 Currently learning
 
