@@ -3,6 +3,7 @@
 <p aling="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=773594&background=FF52BC00&width=610&lines=Back-end+ web+ developer&vCenter=true" alt="Typing SVG" /></a>
 </p>  
+<p> Santiago José María Salguero López</p>
 As a backend developer, I'm dedicated to building solid and reliable systems that keep things running smoothly. I thrive on tackling the challenges that come with optimizing performance and ensuring the stability of web applications, always aiming for simplicity in design and efficiency in execution.
 
 While my core focus is on backend development, I’m also taking steps to expand my knowledge in frontend technologies. This allows me to better understand the full scope of web applications and collaborate more effectively across different layers of the stack.
