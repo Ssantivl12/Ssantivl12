@@ -1,33 +1,28 @@
 # Hi there 👋, I'm Santiago
 
-<p aling="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=773594&background=FF52BC00&width=610&lines=Back-end+ web+ developer&vCenter=true" alt="Typing SVG" /></a>
-</p>  
 <p> Santiago José María Salguero López</p>
-As a backend developer, I'm dedicated to building solid and reliable systems that keep things running smoothly. I thrive on tackling the challenges that come with optimizing performance and ensuring the stability of web applications, always aiming for simplicity in design and efficiency in execution.
 
-While my core focus is on backend development, I’m also taking steps to expand my knowledge in frontend technologies. This allows me to better understand the full scope of web applications and collaborate more effectively across different layers of the stack.
+As a backend developer and team lead, I combine a strong technical background in building robust systems with experience in guiding development teams. My focus is on ensuring quality and efficiency in project execution, while actively expanding my role toward software architecture to design scalable, long-term solutions.
 
 ---
 
 ### Languages and Tools 💻
 <div align="center">
-<img align="left" alt="Python" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Django_Rest_Framework" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-<img align="left" alt="FastAPI" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" /> 
-<img align="left" alt="JavaScript" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" /> 
+<img alt="Nest.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+<img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+<img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img alt="Django_Rest_Framework" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+<img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 </div>
 
-#
+---
 
 ### 📊 Stats
 
-#
 
 <div align="center>
 
@@ -36,14 +31,11 @@ While my core focus is on backend development, I’m also taking steps to expand
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ssantivl12&theme=dark-minimalist)](https://git.io/streak-stats)
-
 
 ---
 
 ### 👨‍💻 Currently learning
 
-I'm someone who is always looking to grow and improve in every aspect of my work. Right now, I'm diving into frontend technologies like **React** to broaden my understanding and enhance my ability to work across the full web development process.
-At the same time, I'm constantly refining my backend expertise by exploring topics like **security**, **code optimization**, and best practices for writing clean, maintainable code.
+I am currently deepening my expertise in software architecture and design patterns to build more complex, maintainable, and scalable systems.
 
-In addition, I'm expanding my toolkit with libraries and technologies that help build more robust, efficient systems, ensuring that I continue evolving as a developer and delivering high-quality solutions.
+My goal is to strengthen my ability to align technical roadmaps with high-level business objectives, ensuring that technology strategically drives growth.
