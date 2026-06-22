@@ -1,9 +1,18 @@
-# Hi there 👋, I'm Santiago
+# Santiago Salguero
+**Backend Developer — NestJS · Prisma · PostgreSQL**
 
-<p> Santiago José María Salguero López</p>
+I build backend systems for multi-tenant SaaS products, where the architecture decisions, how tenants are isolated, how data scales, how the system adapts as the business grows, directly shape what the product can become. 
 
-As a backend developer and team lead, I combine a strong technical background in building robust systems with experience in guiding development teams. My focus is on ensuring quality and efficiency in project execution, while actively expanding my role toward software architecture to design scalable, long-term solutions.
+I care as much about why a system is built a certain way as how it's coded.
 
+
+### 🔧 What I work on
+ 
+- **Multi-tenant architecture** — tenant isolation using AsyncLocalStorage + a custom Prisma proxy pattern; subdomain and JWT-based tenant resolution; hybrid DB strategies (shared schema + dedicated DB routing) depending on tenant scale
+- **Authorization** — RBAC/ABAC systems for multi-tenant apps; published an internal NestJS auth library handling role/permission resolution across tenants
+- **Dynamic forms & procedures** — backend-driven generation of dynamic forms, multi-step procedures, and document workflows, where the schema/logic is configured rather than hardcoded per use case
+- **Security hardening** — auditing production systems for cross-tenant data leakage, broken permission checks, and header-spoofing vectors before they become incidents
+- **Infra** — self-managed Linux server: Nginx reverse proxy, Cloudflare Tunnel, Docker (custom bridge networking), PM2 process management
 ---
 
 ### Languages and Tools 💻
@@ -34,8 +43,6 @@ As a backend developer and team lead, I combine a strong technical background in
 
 ---
 
-### 👨‍💻 Currently learning
+### Currently
 
-I am currently deepening my expertise in software architecture and design patterns to build more complex, maintainable, and scalable systems.
-
-My goal is to strengthen my ability to align technical roadmaps with high-level business objectives, ensuring that technology strategically drives growth.
+Deepening software architecture and design patterns — the goal is systems that hold up past version one, not just at demo time.
